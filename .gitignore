@@ -1,0 +1,8 @@
+# Ignore DSFS .pdf
+/data_science_from_scratch_first_principles_with_py.pdf
+
+# Virtual python environment
+/venv/
+
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
